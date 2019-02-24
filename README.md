@@ -39,7 +39,7 @@ Check out the file structure below.
 
 ```
 bin
-   |–– greeting
+   |–– greeting(name)
 lib
    |–– hello_ruby_programmer.rb
 ...
